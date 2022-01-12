@@ -1,4 +1,7 @@
 Inspiration from: Robert Brada https://github.com/robertbrada/PyQt-image-annotation-tool
+\n
+Still some issues for trying to label entire folders at once - I'll get around to that when I need to use it but in the meantime feel free to fix it :)
+
 
 ## Installation and usage
 
